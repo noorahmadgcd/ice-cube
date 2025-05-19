@@ -4,7 +4,7 @@ html, body {
   
 }
 
-context {
+#context {
   position: absolute;
   bottom: 2%;
   width: 100%;
