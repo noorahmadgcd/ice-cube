@@ -5,7 +5,7 @@ html, body {
 }
 #context {
   position: absolute;
-  bottom: 2%;
+  top: 2%;
   width: 100%;
   text-align: center;
   color: rgb(255, 255, 255);
