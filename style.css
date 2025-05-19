@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+#context {
+  position: absolute;
+  bottom: 2%;
+  width: 100%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color: rgb(50, 150, 250);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  pointer-events: none; /* lets any click pass to the canvas */
+}
+
+canvas {
+  display: block;
+}
